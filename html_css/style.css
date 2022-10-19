@@ -1,0 +1,13 @@
+h1
+{
+    background-clip: padding-box;
+    background-color: #013;
+    padding: 1rem;
+    color: white;
+    border-bottom: 0.5rem solid #359;
+}
+
+h1, h2, p, li
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
